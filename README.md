@@ -9,15 +9,16 @@ Welcome to my page 😄 </h1>
 </br>
 </br>
 📈<b>My Statistics</b> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucennabianca)](https://github.com/lucennabianca/github-readme-stats)
  
 
-
-
+</br>
+</br>
 
 
 💬 <b>To get in touch:</b>
-</br>
-</br>
+
 <a href="mailto:lucenna.bianca@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
